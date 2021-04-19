@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="tab-bar">
     <tab-bar>
       <tab-bar-item path="/home" activeColor="green">
         <template v-slot:item-icon>
